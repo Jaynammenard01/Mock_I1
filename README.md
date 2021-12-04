@@ -1,7 +1,7 @@
 # Mock_I1
 
 
-# Put values from user into an ArrayList and multiply the values
+# Take  values from user, square the values, and put into an ArrayList
 
 
 public class ReadyToCode {
